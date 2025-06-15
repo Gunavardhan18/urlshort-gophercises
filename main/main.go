@@ -1,10 +1,9 @@
 package main
 
 import (
+	"all_files/gophercises/url_shortener/urlshort-gophercises"
 	"fmt"
 	"net/http"
-
-	"github.com/gophercises/urlshort"
 )
 
 func main() {
